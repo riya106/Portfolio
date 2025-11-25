@@ -64,6 +64,11 @@ Tools: GitHub, Figma, Canva
 Learning: AI/ML, Automation
 
 
+![Home Section](home-section.png)
+![Projects Section](projects-section.png)
+![Footer Section](footer.png)
+
+
 📌 Features of This Portfolio
 ✔ Modern UI with animated gradient background
 ✔ Typing effect header
