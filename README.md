@@ -64,8 +64,8 @@ Tools: GitHub, Figma, Canva
 Learning: AI/ML, Automation
 
 
-![Home Section](home-section.png)
-![Projects Section](projects-section.png)
+![Home Section](home.png)
+![Projects Section](project.png)
 ![Footer Section](footer.png)
 
 
